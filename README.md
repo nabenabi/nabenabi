@@ -6,7 +6,10 @@ Currently, I am not working because I am studying in Japan to study abroad.
 <H2>Career</H2>
 •2020.03 - 2021.09 Freelance (Server Management and Site Creation)</br>
 •2021.11 - 2022.02 Developer Team leader on PlexPay</br>
-•2022.02 - 2023.02 Developer Team leader and MainDeveloper on CharactBit</br>
+•2022.02 - 2023.02 Developer Team leader and MainDeveloper on CharactBit
+
+<H2>A participatory event</H2>
+*2022 Solana Hacker House in Seoul</br>
 <div align='center'>
 </br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
