@@ -8,7 +8,7 @@ Currently, I am not working because I am studying in Japan to study abroad.
 •2021.11 - 2022.02 Developer Team leader on PlexPay</br>
 •2022.02 - 2023.02 Developer Team leader and MainDeveloper on CharactBit
 
-<H2>A participatory event</H2>
+<H2>I went event</H2>
 *2022 Solana Hacker House in Seoul</br>
 <div align='center'>
 </br>
