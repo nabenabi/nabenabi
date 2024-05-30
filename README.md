@@ -3,10 +3,6 @@
 I am a Full-Stack developer.</br>
 Currently, I am not working because I am studying in Japan to study abroad.
 
-<H2>Career</H2>
-•2020.03 - 2021.09 Freelance (Server Management and Site Creation)</br>
-•2021.11 - 2022.02 Developer Team leader on PlexPay</br>
-•2022.02 - 2023.02 Developer Team leader and MainDeveloper on CharactBit
 
 <div align='center'>
 </br>
