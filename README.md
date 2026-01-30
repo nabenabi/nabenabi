@@ -12,7 +12,9 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 ## 🎓 Activities & Membership
 
 - **Student Member**, Korea Institute of Information Security & Cryptology (KIISC, 한국정보보안학회)
-- **Conference Presentation Experience** (Security / IT-related topic)
+- **International Conference Presentation**, COIL 2025 ([Link])
+- **Academic Workshop Presentation (Scheduled)**, IEICE, Japan
+
 
 ## 🛠 Tech Stack
 
