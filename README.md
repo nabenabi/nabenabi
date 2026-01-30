@@ -1,22 +1,47 @@
+## Introduction
 
-<H2>Introduction</H2>
-I am a Full-Stack developer.</br>
-Currently, I am not working because I am studying in Japan to study abroad.
+I am a **Full-Stack Developer**.  
+Currently, I am studying in Japan as an exchange student.
 
-<div>
-  <h1>Award</h1>
-  <p>JPHACK2024 Sponsor Award</p>
+Recently, I have become deeply interested in **AI technologies**, especially in their application to real-world services and information security.
+
+## 🏆 Award
+
+- **JPHACK2024 Sponsor Award**
+
+## 🎓 Activities & Membership
+
+- **Student Member**, Korea Institute of Information Security & Cryptology (KIISC, 한국정보보안학회)
+- **Conference Presentation Experience** (Security / IT-related topic)
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+
+</div>
+
+### ⚙️ Frameworks & Libraries
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+</div>
+
+### 🗄 Databases
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
 </div>
 
 
-<div align='center'>
-</br>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-</div>
+##  GitHub Stats
+![](https://github-readme-activity-graph.vercel.app/graph?username=nabenabi&theme=github-dark&cache_seconds=1&v=20260130)
