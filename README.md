@@ -67,4 +67,18 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 
 </div>
 
+### Certificates
+<div style="display:inline-block; margin:10px; text-align:center;">
+  
+### 🏅 Certificates
+IBM Cybersecurity Analyst
+INNOVATIVE BUSINESS TREND ANALYST for korea
+</div>
+<div style="display:inline-block; margin:10px; text-align:center;">
+
+---
+
+### 🎓 Completion Certificates
+- AI Security Operations Professional Development in KISA(Korea Internet & Security Agency)
+</div>
 
