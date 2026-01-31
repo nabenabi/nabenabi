@@ -47,4 +47,24 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 
 ##  GitHub Stats
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nabenabi&theme=github-dark&cache_seconds=1&v=20260130)
+
+## 🎖️ Rank
+
+<div align="center">
+
+### 🇰🇷 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabenabi)](https://solved.ac/nabenabi/)
+
+---
+
+### 🇯🇵 Paiza Rank
+<img src="https://github.com/user-attachments/assets/f107e0e9-f654-4733-92bb-97bd35b898e0" alt="Paiza Rank" width="130" height="105" />
+
+---
+
+### 📊 Glicko Rating
+<img src="https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/10773/image/b8fbd9ff3d28c1ffb7db221dc454d7bc.png" alt="Glicko Rating 화면" width="400" />
+
+</div>
+
+
