@@ -47,4 +47,4 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 
 ##  GitHub Stats
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nabenabi&theme=github-dark&cache_seconds=1&v=20260130)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabenabi)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabenabi)](https://solved.ac/nabenabi/)
