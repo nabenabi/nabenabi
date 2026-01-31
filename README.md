@@ -71,8 +71,8 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 <div style="display:inline-block; margin:10px; text-align:center;">
   
 ### 🏅 Certificates
-IBM Cybersecurity Analyst
-INNOVATIVE BUSINESS TREND ANALYST for korea
+- IBM Cybersecurity Analyst
+- INNOVATIVE BUSINESS TREND ANALYST for korea
 </div>
 <div style="display:inline-block; margin:10px; text-align:center;">
 
