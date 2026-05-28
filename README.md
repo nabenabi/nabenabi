@@ -62,9 +62,7 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 
 ---
 
-### 📊 Glicko Rating
-<img src="https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/10773/image/b8fbd9ff3d28c1ffb7db221dc454d7bc.png" alt="Glicko Rating 화면" width="400" />
-
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=NABE)
 </div>
 
 ### Certificates
