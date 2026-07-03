@@ -78,5 +78,6 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 
 ### 🎓 Completion Certificates
 - AI Security Operations Professional Development in KISA(Korea Internet & Security Agency)
+- K-Shield Jr.(Basic course) in KISA(Korea Internet & Security Agency)
 </div>
 
