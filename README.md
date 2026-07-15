@@ -51,10 +51,6 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 ## 🎖️ Rank
 
 <div align="center">
-
-### 🇰🇷 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabenabi)](https://solved.ac/nabenabi/)
-
 ---
 
 ### 🇯🇵 Paiza Rank
