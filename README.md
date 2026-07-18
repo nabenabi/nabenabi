@@ -53,10 +53,6 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 <div align="center">
 ---
 
-### 🇯🇵 Paiza Rank
-<img src="https://github.com/user-attachments/assets/f107e0e9-f654-4733-92bb-97bd35b898e0" alt="Paiza Rank" width="130" height="105" />
-
----
 
 ![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=NABE)
 </div>
