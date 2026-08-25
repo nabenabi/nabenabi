@@ -14,7 +14,7 @@ Recently, I have become deeply interested in **AI technologies**, especially in 
 - **Student Member**, Korea Institute of Information Security & Cryptology (KIISC, 한국정보보안학회)
 - **Student Member**, Institute of Electronics, Information and Communication Engineers(IEICE, 電子情報通信学会)
 - **International Conference Presentation**, COIL 2025 
-- **Academic Workshop Presentation (Scheduled)**, IEICE, Japan
+- **Academic Workshop Presentation (Scheduled)**, IEICE Society Conference 2026, B-15-38
 
 
 ## 🛠 Tech Stack
